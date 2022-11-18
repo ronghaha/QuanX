@@ -1,0 +1,60 @@
+# NAME: HSBC
+# AUTHOR: Ronghaha
+# UPDATED: 2022-11-18
+# HOST-SUFFIX: 54
+# TOTAL: 54
+
+HOST-SUFFIX,hsbc.com.hk,HSBC
+HOST-SUFFIX,commercial.hsbc.com.hk,HSBC
+HOST-SUFFIX,services.online-banking.hsbc.com.hk,HSBC
+HOST-SUFFIX,ebanking.hsbc.com.hk,HSBC
+HOST-SUFFIX,personal.hsbc.com.hk,HSBC
+HOST-SUFFIX,payme.hsbc.com.hk,HSBC
+HOST-SUFFIX,redhotoffers.hsbc.com.hk,HSBC
+HOST-SUFFIX,warrants.hsbc.com.hk,HSBC
+HOST-SUFFIX,insights.hsbc.com.hk,HSBC
+HOST-SUFFIX,personal.ebanking.hsbc.com.hk,HSBC
+HOST-SUFFIX,retailbank.hsbc.com.hk,HSBC
+HOST-SUFFIX,business.hsbc.com.hk,HSBC
+HOST-SUFFIX,broking.hsbc.com.hk,HSBC
+HOST-SUFFIX,about.hsbc.com.hk,HSBC
+HOST-SUFFIX,gbm.hsbc.com,HSBC
+HOST-SUFFIX,hsbcprivatebank.com,HSBC
+HOST-SUFFIX,hsbcnet.com,HSBC
+HOST-SUFFIX,expatexplorer.hsbc.com,HSBC
+HOST-SUFFIX,member-hsbc-group.com,HSBC
+HOST-SUFFIX,digitalcounterservices.hsbc.com.hk,HSBC
+HOST-SUFFIX,hsbc.com,HSBC
+HOST-SUFFIX,homeandaway.hsbc.com,HSBC
+HOST-SUFFIX,iccmap.hsbc.com.hk,HSBC
+HOST-SUFFIX,etf.hsbc.com,HSBC
+HOST-SUFFIX,hsss.hsbc.co.uk,HSBC
+HOST-SUFFIX,hsbcadvance.com,HSBC
+HOST-SUFFIX,financialplanningpublic.hk.personal-banking.hsbc.com,HSBC
+HOST-SUFFIX,mi.hsbc.com.hk,HSBC
+HOST-SUFFIX,stock.express.hsbc.com.hk,HSBC
+HOST-SUFFIX,hsbc.gr,HSBC
+HOST-SUFFIX,fatca.hsbc.com,HSBC
+HOST-SUFFIX,crs.hsbc.com,HSBC
+HOST-SUFFIX,hsbcpremier.com,HSBC
+HOST-SUFFIX,assetmanagement.hsbc.com,HSBC
+HOST-SUFFIX,hsbc.mobi,HSBC
+HOST-SUFFIX,hsbcpremierlocator.com,HSBC
+HOST-SUFFIX,hkinfo.assetmanagement.hsbc.com,HSBC
+HOST-SUFFIX,ebroking.hsbc.com.hk,HSBC
+HOST-SUFFIX,hsbc.com.au,HSBC
+HOST-SUFFIX,hsbc.com.tw,HSBC
+HOST-SUFFIX,banking.hsbc.com.hk,HSBC
+HOST-SUFFIX,insurance.hsbc.com.hk,HSBC
+HOST-SUFFIX,hsbc.ae,HSBC
+HOST-SUFFIX,offshore.hsbc.com,HSBC
+HOST-SUFFIX,hsbc.com.sg,HSBC
+HOST-SUFFIX,video.hsbc.com.hk,HSBC
+HOST-SUFFIX,hsbc.com.cn,HSBC
+HOST-SUFFIX,thechinfamily.hk,HSBC
+HOST-SUFFIX,axa.com.hk,HSBC
+HOST-SUFFIX,inet.axa.com.hk,HSBC
+HOST-SUFFIX,hsbc.ca,HSBC
+HOST-SUFFIX,us.hsbc.com,HSBC
+HOST-SUFFIX,internationalservices.hsbc.com,HSBC
+HOST-SUFFIX,expat.hsbc.com,HSBC
