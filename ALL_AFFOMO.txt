@@ -1,2 +1,2 @@
-shadowsocks=159.75.253.51:52000, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_AFFOMO
+shadowsocks=159.75.253.51:8389, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_AFFOMO
 http=159.75.253.51:8080, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_AFFOMO
