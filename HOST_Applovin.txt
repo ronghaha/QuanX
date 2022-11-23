@@ -2,3 +2,7 @@
 # AUTHOR: Ronghaha
 
 HOST-SUFFIX,applovin.com,Applovin
+HOST-SUFFIX,woopra.com,Applovin
+HOST-SUFFIX,fonts.com,Applovin
+HOST-SUFFIX,onetrust.com,Applovin
+HOST-SUFFIX,cookielaw.org,Applovin
