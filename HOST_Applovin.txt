@@ -1,0 +1,4 @@
+# NAME: Applovin
+# AUTHOR: Ronghaha
+
+HOST-SUFFIX,applovin.com,Applovin
