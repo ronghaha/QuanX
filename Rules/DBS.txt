@@ -1,0 +1,5 @@
+# NAME: DBS Bank
+# AUTHOR: Ronghaha
+
+HOST-SUFFIX,dbs.com,DBS
+HOST-KEYWORD,dbs.com,DBS
