@@ -4,6 +4,6 @@
 
 #粤核酸相关
 HOST-KEYWORD,.dcloud.,Customized
-HOST-HOST-SUFFIX,dcloud.net,Customized
+HOST-SUFFIX,dcloud.net,Customized
 HOST-KEYWORD,.zdkqyy.,Customized
-HOST-HOST-SUFFIX,zdkqyy.com,Customized
+HOST-SUFFIX,zdkqyy.com,Customized
