@@ -1,4 +1,4 @@
-# NAME: CN_Direct
+# NAME: 自定义国内直连规则
 # AUTHOR: Ronghaha
 
 
