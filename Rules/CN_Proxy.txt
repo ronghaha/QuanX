@@ -1,4 +1,4 @@
-# NAME: CN_Proxy
+# NAME: 自定义_CN代理规则
 # AUTHOR: Ronghaha
 
 
