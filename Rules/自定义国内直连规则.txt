@@ -1,0 +1,16 @@
+# NAME: 自定义CN直连规则
+# AUTHOR: Ronghaha
+
+
+#1password
+HOST-KEYWORD,.1password.,Customized
+HOST-SUFFIX,1password.com,Customized
+
+
+#Edison Mail
+HOST-KEYWORD,.edison.,Customized
+HOST-SUFFIX,edison.tech,Customized
+
+#比亚迪
+HOST-KEYWORD,.byd.,Customized
+HOST-SUFFIX,byd.com,Customized

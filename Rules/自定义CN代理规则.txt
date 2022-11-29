@@ -1,0 +1,9 @@
+# NAME: 自定义CN代理规则
+# AUTHOR: Ronghaha
+
+
+#粤核酸相关
+HOST-KEYWORD,.dcloud.,Customized
+HOST-HOST-SUFFIX,dcloud.net,Customized
+HOST-KEYWORD,.zdkqyy.,Customized
+HOST-HOST-SUFFIX,zdkqyy.com,Customized
