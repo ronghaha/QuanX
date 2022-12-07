@@ -1,0 +1,6 @@
+# NAME: HSBC Hongkong
+# AUTHOR: Ronghaha
+
+
+IP-ASN,9221,AS9221 – HSBC HongKong
+
