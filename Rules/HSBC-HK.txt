@@ -1,0 +1,7 @@
+# NAME: HSBC Hongkong
+# AUTHOR: Ronghaha
+
+
+IP-ASN,9221,HSBC-HK
+HOST-SUFFIX,hsbc.com.hk,HSBC-HK
+HOST-KEYWORD,hsbc.com.hk,HSBC-HK
