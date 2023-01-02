@@ -1,0 +1,9 @@
+# NAME: 自定义_阿里云ASN
+# AUTHOR: Ronghaha
+
+
+IP-ASN,37963,AliyunASN
+IP-ASN,45102,AliyunASN
+IP-ASN,45096,AliyunASN
+IP-ASN,45103,AliyunASN
+IP-ASN,45104,AliyunASN
