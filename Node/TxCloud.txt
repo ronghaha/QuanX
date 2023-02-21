@@ -1,11 +1,11 @@
-#AFFOMO@159.75.253.51
-shadowsocks=159.75.253.51:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_GZ腾讯云1
-http=159.75.253.51:52000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_云音乐1
+#HangZhouAliyun@121.43.163.28
+shadowsocks=121.43.163.28:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_HZ阿里云1
+http=121.43.163.28:52000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_云音乐3_Aliyun
 
 #LanyingLin@81.71.4.43
 shadowsocks=81.71.4.43:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_GZ腾讯云2
 http=81.71.4.43:52000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_云音乐2
 
-#HangZhouAliyun@121.43.163.28
-shadowsocks=121.43.163.28:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_HZ阿里云1
-http=121.43.163.28:52000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_云音乐3_Aliyun
+#AFFOMO@159.75.253.51
+shadowsocks=159.75.253.51:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_GZ腾讯云1
+http=159.75.253.51:52000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_云音乐1
