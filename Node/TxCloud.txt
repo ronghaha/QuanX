@@ -1,5 +1,5 @@
 #HangZhouAliyun@121.43.163.28
-shadowsocks=121.43.163.28:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_HZ阿里云1
+shadowsocks=121.43.163.28:8388, method=aes-256-cfb, password=admin123, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=SS_CN_HZ阿里云3
 http=121.43.163.28:52000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=HTTP_云音乐3_Aliyun
 
 #LanyingLin@81.71.4.43
