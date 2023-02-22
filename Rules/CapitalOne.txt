@@ -1,0 +1,5 @@
+# NAME: CapitalOne Bank
+# AUTHOR: Ronghaha
+
+HOST-KEYWORD,capitalone.,CapitalOne
+HOST-SUFFIX,capitalone.com,CapitalOne
