@@ -1,0 +1,10 @@
+# NAME: US_HOST
+# AUTHOR: Ronghaha
+
+# CapitalOne Bank
+HOST-KEYWORD,capitalone.,US_HOST
+HOST-SUFFIX,capitalone.com,US_HOST
+
+# Equifax
+HOST-KEYWORD,equifax.,US_HOST
+HOST-SUFFIX,equifax.com,US_HOST
