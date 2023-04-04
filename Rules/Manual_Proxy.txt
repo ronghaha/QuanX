@@ -1,0 +1,8 @@
+# NAME: 自定义_手动代理
+# AUTHOR: Ronghaha
+
+#91p
+HOST-KEYWORD,.91p,Customized
+HOST-SUFFIX,91porn.com,Customized
+
+##New Rules
