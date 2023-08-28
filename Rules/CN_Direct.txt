@@ -16,5 +16,8 @@ HOST-SUFFIX,edison.tech,Customized
 HOST-KEYWORD,.byd.,Customized
 HOST-SUFFIX,byd.com,Customized
 
+#腾讯系
+ip-cidr,182.254.116.0/24,Customized
+
 
 ##New Rules
