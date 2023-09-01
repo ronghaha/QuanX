@@ -5,4 +5,8 @@
 HOST-KEYWORD,.91p,Customized
 HOST-SUFFIX,91porn.com,Customized
 
+#Digitcert证书网站
+HOST,ocsp.digicert.com,Customized
+
+
 ##New Rules
