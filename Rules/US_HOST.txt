@@ -8,3 +8,7 @@ HOST-SUFFIX,capitalone.com,US_HOST
 # Equifax
 HOST-KEYWORD,equifax.,US_HOST
 HOST-SUFFIX,equifax.com,US_HOST
+
+# Godaddy
+HOST-KEYWORD,godaddy.,US_HOST
+HOST-SUFFIX,godaddy.com,US_HOST
